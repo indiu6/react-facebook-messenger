@@ -2,6 +2,4 @@
 
 built with Firebase, React, @material-ui, react-flip-move
 
-## Demo
-
-[Demo]('https://clone-fcd1f.web.app/')
+## [Demo](https://clone-fcd1f.web.app/)
