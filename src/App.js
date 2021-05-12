@@ -1,12 +1,14 @@
 import { FormControl, Input, IconButton } from '@material-ui/core';
+import SendIcon from '@material-ui/icons/Send';
+
 import React, { useEffect, useState } from 'react';
 import './App.css';
 import Message from './Message';
+
 import db from './firebase';
 import firebase from 'firebase';
 // import { Flipper, Flipped } from 'react-flip-toolkit';
 import FlipMove from 'react-flip-move';
-import SendIcon from '@material-ui/icons/Send';
 
 const App = () => {
   const [input, setInput] = useState('');
