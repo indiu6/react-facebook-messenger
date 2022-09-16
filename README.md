@@ -5,5 +5,5 @@ built with Firebase, React, @material-ui, react-flip-move
 ## Summary
 
 - Design: [@material-ui](https://material-ui.com/)
-- Deployment: [AWS Amplify](https://aws.amazon.com/amplify/) + [AWS R53](https://aws.amazon.com/route53/)
+- Deployment: [AWS Amplify](https://aws.amazon.com/amplify/) + [AWS R53](https://aws.amazon.com/route53/) -> https://react-material-ui-pokemon.vercel.app/
 - Backend: [Firebase](https://firebase.google.com/)
